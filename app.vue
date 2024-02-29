@@ -19,6 +19,6 @@ export default {
 <style>
 /* Add your page-specific styles here */
 h1 {
-  color: #2ecc71;
+  color: #7a34db;
 }
 </style>
